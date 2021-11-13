@@ -1,0 +1,15 @@
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\bin\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.exe
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\bin\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.deps.json
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\bin\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.runtimeconfig.json
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\bin\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.runtimeconfig.dev.json
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\bin\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.dll
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\bin\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.pdb
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\obj\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.csprojAssemblyReference.cache
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\obj\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.csproj.GenerateResource.cache
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\obj\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.AssemblyInfoInputs.cache
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\obj\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.AssemblyInfo.cs
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\obj\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.csproj.CoreCompileInputs.cache
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\obj\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.dll
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\obj\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.pdb
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\obj\Debug\netcoreapp3.1\Projeto 3 camadas BLL DAL DTO.genruntimeconfig.cache
+C:\Users\55319\source\repos\Projeto 3 camadas BLL DAL DTO\obj\Debug\netcoreapp3.1\Projeto_3_camadas_BLL_DAL_DTO.Medicamentos.resources
